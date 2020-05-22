@@ -1,6 +1,6 @@
 {
   "name": "@vunyunt/node-logging",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Very basic logging with log levels",
   "main": "index.js",
   "scripts": {
