@@ -13,5 +13,6 @@
   "dependencies": {
     "@types/node": "^14.0.5",
     "typescript": "^3.9.3"
-  }
+  },
+  "repository": "github:vunyunt/node-logging"
 }
